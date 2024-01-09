@@ -149,8 +149,6 @@
 							io.grpc.protobuf,
 							io.grpc.stub,
 							com.google.common.util.concurrent,
-							com.google.gson,
-							com.google.gson.annotations,
 							com.google.protobuf
 						</Export-Package>
 					</instructions>
